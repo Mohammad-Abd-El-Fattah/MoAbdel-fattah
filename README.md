@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abd El-Fattah</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=10000&color=00C823&width=438&height=55&lines=A+Bachelor's+Degree+Student+Of+Computer+Science+%7C+iOS+Developer+from+Egypt" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=10000&color=00C823&width=438&height=55&lines=A+Bachelor's+Degree+Student+Of+Computer+Science+%7C+iOS+Developer+from+Egypt" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhd03&label=Profile%20views&color=0e75b6&style=flat" alt="mhd03" /> </p>
 
 - 🌱 I’m currently learning **Data Engineering , AI**
