@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abd El-Fattah</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=15&pause=5000&color=00C823&multiline=true&width=438&height=55&lines=A+Bachelor's+Degree+Student+Of+Computer+Science+%7C+iOS+Developer+from+Egypt" alt="Typing SVG" /></a><img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=5000&color=00C823&multiline=true&width=438&height=55&lines=A+Bachelor's+Degree+Student+Of+Computer+Science+%7C+iOS+Developer+from+Egypt" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhd03&label=Profile%20views&color=0e75b6&style=flat" alt="mhd03" /> </p>
 
